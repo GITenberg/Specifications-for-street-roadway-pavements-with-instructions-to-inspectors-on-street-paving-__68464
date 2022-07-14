@@ -1,0 +1,29 @@
+_repo: Specifications-for-street-roadway-pavements-with-instructions-to-inspectors-on-street-paving-__68464
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whinery, Samuel
+    alias: Whinery, S. (Samuel)
+    birthdate: 1845
+    gutenberg_agent_id: '54780'
+    url: http://www.gutenberg.org/2009/agents/54780
+description: ''
+gutenberg_issued: '2022-07-06'
+identifiers:
+  gutenberg: '68464'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924004626630
+pgterms:marc905: 20200611095829whinery
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :McGraw-Hill Book Company,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Specifications for street roadway pavements: with instructions to inspectors
+  on street paving work'
+url: http://www.gutenberg.org/ebooks/68464
