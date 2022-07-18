@@ -1,5 +1,8 @@
 _repo: Specifications-for-street-roadway-pavements-with-instructions-to-inspectors-on-street-paving-__68464
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68464-h/images/cover.jpg
 creator:
   author:
     agent_name: Whinery, Samuel
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '54780'
     url: http://www.gutenberg.org/2009/agents/54780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68464#Specifications-for-street-roadway-pavements-with-instructions-to-inspectors-on-street-paving-_
 gutenberg_issued: '2022-07-06'
 identifiers:
   gutenberg: '68464'
